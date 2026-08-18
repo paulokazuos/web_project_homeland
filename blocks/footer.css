@@ -9,3 +9,9 @@
   line-height: 1.14;
   margin: 0;
 }
+
+@media (max-width: 1024px) {
+  .footer {
+    padding: 90px 24px 24px;
+  }
+}
